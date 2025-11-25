@@ -1113,7 +1113,7 @@
           }
         },
         {
-          "id": "generated.forgemod:essential:3-10-1_forge_1-20-1@jar",
+          "id": "gg.essential:essential:3-10-1@jar",
           "name": "Essential",
           "type": "ForgeMod",
           "artifact": {
