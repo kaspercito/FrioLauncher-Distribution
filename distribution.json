@@ -2413,16 +2413,6 @@
           }
         },
         {
-          "id": "io.github.gaming32.worldhost:world_host:0.5.2+1.20.1-forge@jar",
-          "name": "World Host",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 540038,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/required/world-host-0.5.2+1.20.1-forge.jar",
-            "MD5": "34405e15240d7bdb4df0786ef43fe305"
-          }
-        },
-        {
           "id": "com.lunofe:xray_snitch:1.1@jar",
           "name": "Xray Snitch",
           "type": "ForgeMod",
