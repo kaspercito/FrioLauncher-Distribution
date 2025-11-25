@@ -853,16 +853,6 @@
           }
         },
         {
-          "id": "generated.forgemod:crash_assistant:1.8.0@jar",
-          "name": "Crash Assistant",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 682120,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/required/CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar",
-            "MD5": "48e353d5ed9802e41e50568e9867717e"
-          }
-        },
-        {
           "id": "net.mcreator.createnetherless:create_netherless:1.3.0@jar",
           "name": "Create: Netherless",
           "type": "ForgeMod",
@@ -2413,6 +2403,16 @@
           }
         },
         {
+          "id": "io.github.gaming32.worldhost:world_host:0.5.2+1.20.1-forge@jar",
+          "name": "World Host",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540038,
+            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/required/world-host-0.5.2+1.20.1-forge.jar",
+            "MD5": "34405e15240d7bdb4df0786ef43fe305"
+          }
+        },
+        {
           "id": "com.lunofe:xray_snitch:1.1@jar",
           "name": "Xray Snitch",
           "type": "ForgeMod",
@@ -3826,105 +3826,6 @@
             "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/craftpresence.json",
             "MD5": "c21f31b7f3024a4d0cc732f749f264cb",
             "path": "config/craftpresence.json"
-          }
-        },
-        {
-          "id": "config.toml",
-          "name": "config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 6611,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/config.toml",
-            "MD5": "3329cb7df85d46c60a9051c3fdff3f82",
-            "path": "config/crash_assistant/config.toml"
-          }
-        },
-        {
-          "id": "config.toml.bak",
-          "name": "config.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6639,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/config.toml.bak",
-            "MD5": "247143fde3fd2bcd7fdb628bd7df9986",
-            "path": "config/crash_assistant/config.toml.bak"
-          }
-        },
-        {
-          "id": "en_us.json",
-          "name": "en_us.json",
-          "type": "File",
-          "artifact": {
-            "size": 7587,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/lang/en_us.json",
-            "MD5": "5f3bda9d1c79a6850b2fe514a219e972",
-            "path": "config/crash_assistant/lang/en_us.json"
-          }
-        },
-        {
-          "id": "es_es.json",
-          "name": "es_es.json",
-          "type": "File",
-          "artifact": {
-            "size": 7587,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/lang/es_es.json",
-            "MD5": "5f3bda9d1c79a6850b2fe514a219e972",
-            "path": "config/crash_assistant/lang/es_es.json"
-          }
-        },
-        {
-          "id": "README.md",
-          "name": "README.md",
-          "type": "File",
-          "artifact": {
-            "size": 715,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/lang/README.md",
-            "MD5": "d4ca7c384aa3bee807a8c5131b6ba14a",
-            "path": "config/crash_assistant/lang/README.md"
-          }
-        },
-        {
-          "id": "ru_ru.json",
-          "name": "ru_ru.json",
-          "type": "File",
-          "artifact": {
-            "size": 7587,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/lang/ru_ru.json",
-            "MD5": "5f3bda9d1c79a6850b2fe514a219e972",
-            "path": "config/crash_assistant/lang/ru_ru.json"
-          }
-        },
-        {
-          "id": "zh_cn.json",
-          "name": "zh_cn.json",
-          "type": "File",
-          "artifact": {
-            "size": 7587,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/lang/zh_cn.json",
-            "MD5": "5f3bda9d1c79a6850b2fe514a219e972",
-            "path": "config/crash_assistant/lang/zh_cn.json"
-          }
-        },
-        {
-          "id": "modlist.json",
-          "name": "modlist.json",
-          "type": "File",
-          "artifact": {
-            "size": 20303,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/modlist.json",
-            "MD5": "0e1ba862d0ea7cd589a5f311d33101ff",
-            "path": "config/crash_assistant/modlist.json"
-          }
-        },
-        {
-          "id": "problematic_mods_config.json",
-          "name": "problematic_mods_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 225,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/files/config/crash_assistant/problematic_mods_config.json",
-            "MD5": "61072ea58801cdf71d5736c59c4b8051",
-            "path": "config/crash_assistant/problematic_mods_config.json"
           }
         },
         {
