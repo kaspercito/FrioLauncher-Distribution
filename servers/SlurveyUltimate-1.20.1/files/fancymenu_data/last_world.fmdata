@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/Kaspercito/curseforge/minecraft/Instances/Slurvey's Ultimate Survival/saves/New World
-}
-
