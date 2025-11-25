@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SlurveyUltimate (Minecraft 1.20.1)",
+    "description": "SlurveyUltimate Running Minecraft 1.20.1 (Fabric v0.16.10)",
+    "icon": "https://cdn.discordapp.com/attachments/1198164615624937553/1442914143735644373/638784382031635851.png?ex=69272a03&is=6925d883&hm=1d0703c6dbf2828f50713f1d4a4da4a9c4f872cbfa80f05e889f67f7e81aff39&",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.10"
+  },
+  "untrackedFiles": []
+}
