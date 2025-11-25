@@ -616,16 +616,6 @@
           }
         },
         {
-          "id": "dev.isxander:controlify:2.0.4+1.20.1-fabric@jar",
-          "name": "Controlify",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4169561,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/SlurveyUltimate-1.20.1/fabricmods/required/controlify-2.0.4+1.20.1-fabric.jar",
-            "MD5": "486c6e32166f46dbd497ac77f95ea935"
-          }
-        },
-        {
           "id": "generated.fabricmod:controlling:12.0.2@jar",
           "name": "Controlling For Fabric",
           "type": "FabricMod",
@@ -13984,16 +13974,6 @@
             "size": 22044,
             "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/UltimateCraft-1.20.1/forgemods/required/emc-interface-1.20.1.1.jar",
             "MD5": "ac6d47421641879c57b26e1f6b2eefcc"
-          }
-        },
-        {
-          "id": "generated.forgemod:essential_1:3-10-1_forge_1-20-1@jar",
-          "name": "Essential_1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 54422984,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/UltimateCraft-1.20.1/forgemods/required/Essential_1-3-10-1_forge_1-20-1.jar",
-            "MD5": "d7ebaaa1b81cb1c378b712b25f39a332"
           }
         },
         {
