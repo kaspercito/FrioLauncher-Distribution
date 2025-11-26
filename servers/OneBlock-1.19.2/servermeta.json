@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "OneBlock (Minecraft 1.19.2)",
     "description": "OneBlock Running Minecraft 1.19.2 (Forge v43.5.0)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "https://cdn.discordapp.com/attachments/1198164615624937553/1443036172052992112/Z.png?ex=69279ba9&is=69264a29&hm=c987afaf0d4bf4ff5a4cf580f0002cec7b11d371cec92f81af952ae25bf10f8e&",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
