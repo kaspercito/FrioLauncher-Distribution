@@ -1113,19 +1113,6 @@
           }
         },
         {
-          "id": "generated.forgemod:essential:forge_1-18-2@jar",
-          "name": "Essential",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28001,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/optionalon/Essential-forge_1-18-2.jar",
-            "MD5": "faadd439500c8dca67558725d53664d4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "mc.euphoria_patches:euphoria_patcher:1.6.4-r5.5.1-forge@jar",
           "name": "EuphoriaPatcher",
           "type": "ForgeMod",
@@ -2413,19 +2400,6 @@
             "size": 160024,
             "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/required/wegotrunnners-0.7.1.1.20.1[SPANISH%20TRANSLATION%20UPDATE].jar",
             "MD5": "661bd44f9cffda9add27c2d8b809ae95"
-          }
-        },
-        {
-          "id": "io.github.gaming32.worldhost:world_host:0.5.2+1.20.1-forge@jar",
-          "name": "World Host",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 540038,
-            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/CursedWalking-1.20.1/forgemods/optionalon/world-host-0.5.2+1.20.1-forge.jar",
-            "MD5": "34405e15240d7bdb4df0786ef43fe305"
-          },
-          "required": {
-            "value": false
           }
         },
         {
