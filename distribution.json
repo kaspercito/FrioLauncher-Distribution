@@ -1113,6 +1113,16 @@
           }
         },
         {
+          "id": "generated.forgemod:essential_1:3-10-1_forge_1-20-1@jar",
+          "name": "Essential_1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54422984,
+            "url": "http://raw.githubusercontent.com/kaspercito/FrioDistribution/main/servers/UltimateCraft-1.20.1/forgemods/required/Essential_1-3-10-1_forge_1-20-1.jar",
+            "MD5": "d7ebaaa1b81cb1c378b712b25f39a332"
+          }
+        },
+        {
           "id": "mc.euphoria_patches:euphoria_patcher:1.6.4-r5.5.1-forge@jar",
           "name": "EuphoriaPatcher",
           "type": "ForgeMod",
